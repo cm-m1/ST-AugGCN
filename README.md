@@ -12,9 +12,9 @@
 
 “Q-traffic” 
 This dataset originates from (https://github.com/JingqingZ/BaiduTraffic)
-The geographic coordinates range of road network is [116.10, 39.69, 116.71, 40.18]. 
+In this paper, the geographic coordinates range of road network is [116.10, 39.69, 116.71, 40.18]. 
 It contains 45,148 roadway segments, each counted from April 1 to May 31, 2017 for the three categories. 
-The data in this paper selected 329 of these vulnerability-prone road segments.
+This data selected 329 of these vulnerability-prone road segments futher.
 
 “Q-traffic Events” 
 The online crowd queries which are derived from users’ navigation search queries can characterize the potential occurrence of events at specific locations. The traffic conditions and crowd queries for these road segments are sampled every 15 minutes with a vector of dimensions
