@@ -1,4 +1,4 @@
-# EST-RVI
+# ST-AugGCN
 (1) Experimental Environment:
 
 graphviz                  >=  0.8.4       
